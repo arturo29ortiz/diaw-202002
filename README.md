@@ -1,2 +1,7 @@
 # diaw-202002
-Código base para administrar paqueteria front end 
+
+## Descrrption 
+Código base para administrar paqueteria front end
+
+## Stack
+Por definir 
