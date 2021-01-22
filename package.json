@@ -1,0 +1,20 @@
+{
+  "name": "00-frontenddep",
+  "version": "0.0.0",
+  "description": "Código base para administrar paqueteria front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturo29ortiz/diaw-202002.git"
+  },
+  "keywords": ["node", "frontend" ],
+  "author": "Carlos Arturo Ortiz Vazquez <l161130089@gamadero.tecnm.mx>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturo29ortiz/diaw-202002/issues"
+  },
+  "homepage": "https://github.com/arturo29ortiz/diaw-202002#readme"
+}
