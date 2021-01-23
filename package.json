@@ -4,17 +4,26 @@
   "description": "Código base para administrar paqueteria front end",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --config ./webpack.config.js --mode development"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arturo29ortiz/diaw-202002.git"
   },
-  "keywords": ["node", "frontend" ],
+  "keywords": [
+    "node",
+    "frontend"
+  ],
   "author": "Carlos Arturo Ortiz Vazquez <l161130089@gamadero.tecnm.mx>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arturo29ortiz/diaw-202002/issues"
   },
-  "homepage": "https://github.com/arturo29ortiz/diaw-202002#readme"
+  "homepage": "https://github.com/arturo29ortiz/diaw-202002#readme",
+  "devDependencies": {
+    "webpack": "^5.17.0",
+    "webpack-cli": "^4.4.0",
+    "webpack-dev-server": "^3.11.2"
+  }
 }
